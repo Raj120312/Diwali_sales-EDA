@@ -30,9 +30,14 @@ Open Jupyter notebook and run all cells to produce the analysis
 
 ![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%204.png)
 
-![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%204.png)
-
 ![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%205.png)
+
+![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/cc678d5040ca7046ffa2d97fde51c77c0e0221a7/static/graph%206.png)
+
+
+
+
+
 
 
 
