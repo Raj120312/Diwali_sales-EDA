@@ -11,11 +11,15 @@ Prerequisites -
 
 How to run - 
 Clone the repository
+
 git clone https://github.com/Raj120312/Diwali_sales-EDA.git
+
 cd Diwali_sales-EDA
+
 
 Open Jupyter notebook and run all cells to produce the analysis
 
 
+Some of the visualizations are as follows-
 
 ![Age group wise amount spent](https://github.com/Raj120312/Diwali_sales-EDA/blob/1ecf9adf02f0aa17f845725102ef9ce5085589f8/static/Amount%20spent%20age%20group%20wise.png)
