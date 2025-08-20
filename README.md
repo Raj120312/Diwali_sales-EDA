@@ -4,12 +4,12 @@ This an EDA project done on a dummy dataset consisting of Diwali Sales across di
 There are two files attached. 
 One is the dataset with .csv extension and another one is .ipynb file which can be opened with Jupyter notebook application
 
-Prerequisites -
+**Prerequisites** -
 
 1. To have python installed and have jupternotebook application
 2. Install necessary libraries by running following command in jupyter notebook  "pip install pandas numpy matplotlib seaborn"
 
-How to run - 
+**How to run** - 
 Clone the repository
 
 git clone https://github.com/Raj120312/Diwali_sales-EDA.git
@@ -20,6 +20,20 @@ cd Diwali_sales-EDA
 Open Jupyter notebook and run all cells to produce the analysis
 
 
-Some of the visualizations are as follows-
+**Some of the visualizations are as follows**-
 
-![Age group wise amount spent](https://github.com/Raj120312/Diwali_sales-EDA/blob/1ecf9adf02f0aa17f845725102ef9ce5085589f8/static/Amount%20spent%20age%20group%20wise.png)
+![Age group wise amount spent](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%201.png)
+
+![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%202.png)
+
+![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%203.png)
+
+![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%204.png)
+
+![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%204.png)
+
+![image_alt](https://github.com/Raj120312/Diwali_sales-EDA/blob/63a465c48dfcc9498021a30c97b5b6c5424e5e68/static/graph%205.png)
+
+
+
+
