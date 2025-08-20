@@ -4,3 +4,4 @@ This an EDA project done on a dummy dataset consisting of Diwali Sales across di
 There are two files attached. 
 One is the dataset with .csv extension and another one is .ipynb file which can be opened with Jupyter notebook application
 
+![image_alt][static/Amount spent age group wise.png]
